@@ -13,6 +13,7 @@ import json
 import hashlib
 import hmac
 import base64
+import re
 from threading import Thread
 from io import StringIO
 
