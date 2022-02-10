@@ -171,7 +171,7 @@
 						"FreshEventTimeStamp":"10",
 						"SecurityHubFilters":"",
 						"LAURI": "[variables('LogAnaltyicsUri')]",											 
-                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/Azure/Azure-Sentinel/blob/master/DataConnectors/AWS-SecurityHubFindings/AzFunAWSSecurityHubIngestion.zip?raw=true"
+                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/hdssg/Azure-Sentinel/blob/master/DataConnectors/AWS-SecurityHubFindings/AzFunAWSSecurityHubIngestion.zip?raw=true"
                     }
                 }
             ]
